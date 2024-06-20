@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676262903640",
+    "project_id": "csdiaryapp",
+    "storage_bucket": "csdiaryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676262903640:android:ac71e05ae38e82a7e8af2d",
+        "android_client_info": {
+          "package_name": "com.example.csdiaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676262903640-4qcvj67lg07v509fsjkg10gu3bco1brv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6UHjvF9nBGFlxJ7VCGyBsNYM7Y6p4owQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676262903640-4qcvj67lg07v509fsjkg10gu3bco1brv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
